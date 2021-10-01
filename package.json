@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
-  "version": "0.1.0",
+  "version": "2021.10.1",
+  "author": "Nico Kempe",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
